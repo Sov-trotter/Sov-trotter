@@ -1,6 +1,6 @@
 ### qavan tu'lu' visitor!
 
-The alias Sov-trotter has a `klingon` origin ans so doesn the above statement. 
+The alias Sov-trotter has a `klingon` origin and so doesn the above statement. 
 I am currently working on The Julia Language, because speed. ;)
 
 <!--
