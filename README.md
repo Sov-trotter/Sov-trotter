@@ -1,7 +1,9 @@
 ### qavan tu'lu' visitor!
 
 The alias Sov-trotter has a `klingon` origin and so doesn the above statement. 
-I am currently working on The Julia Language, because speed. ;)
+
+
+Currently working on The Julia Language, because speed. ;)
 ![Ah you're right on, you're right on!](https://github.com/Sov-trotter/Sov-trotter/blob/master/test.png)
 <!--
 **Sov-trotter/Sov-trotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
