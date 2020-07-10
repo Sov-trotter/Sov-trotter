@@ -1,4 +1,7 @@
-### Hi there 👋
+### qavan tu'lu' visitor!
+
+The alias Sov-trotter has a `klingon` origin ans so doesn the above statement. 
+I am currently working on The Julia Language, because speed. ;)
 
 <!--
 **Sov-trotter/Sov-trotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
